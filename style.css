@@ -13,6 +13,7 @@ nav
   top:-40%;
 }
 main{
+  margin: 25px;
   background: #6bf0ab;
   color: #3dcbc0;
 }
