@@ -1,0 +1,26 @@
+header{
+  background-color: #d271fd;
+  color: #256d57;
+}
+nav
+{
+  background-color: #81ea63;
+  color: #33479A;
+}
+.navbar-nav.ml-auto li a
+{
+  position: relative;
+  top:-40%;
+}
+main{
+  background: #6bf0ab;
+  color: #3dcbc0;
+}
+
+footer{ 
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+  background: #7B65B8;
+  color: #145DA6;
+}  
